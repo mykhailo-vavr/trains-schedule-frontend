@@ -21,4 +21,13 @@
 4. Run project
    `npm run dev`
 
-Developed by mykhailo-vavr (GitHub)
+## What can be improved
+
+- Redesign more for server components
+- Better refactor codebase
+
+## Other
+
+As boilerplate used [this starter](https://github.com/mykhailo-vavr/nextjs-starter)
+
+#### Developed by [mykhailo-vavr](https://github.com/mykhailo-vavr) (GitHub)
